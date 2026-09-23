@@ -1,0 +1,26 @@
+{
+  "pointAndEdit": {
+    "priorityPaths": {
+      "prefer": [],
+      "deprioritize": [],
+      "exclude": []
+    },
+    "libraryPaths": {
+      "local": [],
+      "external": []
+    },
+    "pathClassification": {
+      "classifier": "sonnet"
+    },
+    "exclusions": [],
+    "generated": {
+      "schemaVersion": 2,
+      "source": "setup-agent.point-and-edit-path-classifier",
+      "prompt": "same-turn-setup-subagent-v5",
+      "model": "claude-sonnet-4-6",
+      "createdAt": "2026-09-22T00:00:00.000Z",
+      "confidence": 0,
+      "explanation": "The repository at /Users/michael.reynolds/Dev/Selectors contains no discoverable files, so no path classification can be performed."
+    }
+  }
+}

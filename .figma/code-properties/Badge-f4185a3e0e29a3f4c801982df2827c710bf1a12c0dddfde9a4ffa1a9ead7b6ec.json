@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "componentName": "Badge",
+    "filePath": "components/ui/badge.tsx"
+  },
+  "codeProperties": {
+    "variant": {
+      "type": "string",
+      "name": "Variant",
+      "defaultValue": "default",
+      "options": [
+        "default",
+        "secondary",
+        "destructive",
+        "outline",
+        "ghost",
+        "link"
+      ],
+      "control": {
+        "type": "select",
+        "labels": {
+          "default": "Default",
+          "secondary": "Secondary",
+          "destructive": "Destructive",
+          "outline": "Outline",
+          "ghost": "Ghost",
+          "link": "Link"
+        }
+      }
+    }
+  }
+}
